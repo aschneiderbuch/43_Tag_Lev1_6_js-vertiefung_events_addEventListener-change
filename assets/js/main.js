@@ -35,6 +35,10 @@ btnSelect.addEventListener("change", (e) => {
     auswahl(e);
 });
 
+/**
+ * 
+ * @param {*} e holt das e / event rein
+ */
 function auswahl(e){
 
 
